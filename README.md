@@ -13,4 +13,4 @@
 ```bash
 lua focus.lua
 
-🧠 Made by @nuqxo
+🧠 Made by @nuqey
